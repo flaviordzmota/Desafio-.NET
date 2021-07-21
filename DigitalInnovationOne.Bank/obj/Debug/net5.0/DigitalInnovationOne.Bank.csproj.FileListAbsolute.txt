@@ -1,0 +1,16 @@
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.csproj.AssemblyReference.cache
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.AssemblyInfoInputs.cache
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.AssemblyInfo.cs
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.csproj.CoreCompileInputs.cache
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\DigitalInnovationOne.Bank.exe
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\DigitalInnovationOne.Bank.deps.json
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\DigitalInnovationOne.Bank.runtimeconfig.json
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\DigitalInnovationOne.Bank.runtimeconfig.dev.json
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\DigitalInnovationOne.Bank.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\ref\DigitalInnovationOne.Bank.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\bin\Debug\net5.0\DigitalInnovationOne.Bank.pdb
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\ref\DigitalInnovationOne.Bank.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.pdb
+Z:\DIO\BootCamp .NET Fundamentals\Criando uma aplicação de transferências bancárias com .NET\DigitalInnovationOne.Bank\obj\Debug\net5.0\DigitalInnovationOne.Bank.genruntimeconfig.cache
